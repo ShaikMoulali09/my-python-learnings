@@ -1,5 +1,5 @@
 
-c= " moulali Shaik !!!!"
+c= " moulali Shaik !!!"
 print(c.upper()) # converts to uppercase
 print(c.lower()) # converts to lowercase
 print(c.rstrip('!')) #removes the trailing characters from the right side of the string
