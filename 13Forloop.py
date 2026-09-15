@@ -5,7 +5,7 @@ for i in m:
     if(i=="a"):
        print("this is a powerful name")
 
-names=["janbi","Jakeera","Naaziya","Nazeer"]
+names=["janbi","Jakeera","Naaziya","Nazeer", "Moulali"]
 for name in names:
     print(name)
     for n in name:
